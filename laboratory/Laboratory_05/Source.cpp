@@ -9,6 +9,10 @@ class Product
 	char name[100];
 	float price;
 	bool isOnSale;
+
+	int* soldItemsPerMonth;
+	int noMonths;
+
 public:
 	char* getName() {
 		char* copy = new char[strlen(this->name) + 1];
