@@ -1,0 +1,8 @@
+
+Students Report
+Alice | 20 | NO Erasmus
+Grades: 10 10 9
+Bob | 21 | Is Erasmus
+Grades: 10 10 9
+John | 0 | NO Erasmus
+Grades:
